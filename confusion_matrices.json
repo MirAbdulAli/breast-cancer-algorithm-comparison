@@ -1,0 +1,52 @@
+{
+  "Logistic Regression": [
+    [
+      41,
+      1
+    ],
+    [
+      1,
+      71
+    ]
+  ],
+  "Decision Tree": [
+    [
+      39,
+      3
+    ],
+    [
+      6,
+      66
+    ]
+  ],
+  "K-Nearest Neighbors": [
+    [
+      39,
+      3
+    ],
+    [
+      0,
+      72
+    ]
+  ],
+  "Support Vector Machine (RBF)": [
+    [
+      41,
+      1
+    ],
+    [
+      1,
+      71
+    ]
+  ],
+  "Gaussian Naive Bayes": [
+    [
+      38,
+      4
+    ],
+    [
+      4,
+      68
+    ]
+  ]
+}
